@@ -1,3 +1,2 @@
-### Inflect is a lightweight stream processing framework for event-driven architectures designed to provide complex message transformations and seamless schema evolution and versioning in real-time.
-
-Created by Chris Douglass and Ben Hancock
+### Inflect is a lightweight stream processing framework for event-driven architectures
+#### It allows developers to easily manage message transformations and handle consistent schema versioning and evolution. Inflect integrates seamlessly with Kafka and can be used alongside existing stream processors or as a standalone solution, simplifying the management of data flows and ensuring compatibility as microservices evolve over time in a complex event-driven system.
